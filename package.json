@@ -1,0 +1,18 @@
+{
+  "name": "effect-views",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hunghkit/effect-views.git"
+  },
+  "author": "hunghk",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "effect-views",
+    "ripple",
+    "wave"
+  ],
+  "description": "This's simple view in react native, it help you make a Component with a few effect for your component",
+  "main": "index.js"
+}
